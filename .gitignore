@@ -350,4 +350,4 @@ MigrationBackup/
 .ionide/
 
 #video
-assets/BigBuckBunny_512kb.mp4
+src/assets/BigBuckBunny_512kb.mp4
