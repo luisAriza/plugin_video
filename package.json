@@ -1,0 +1,15 @@
+{
+  "name": "curso_profesional_javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "keywords": [],
+  "author": "Luis Ariza <luismanuelariza@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.1.0"
+  }
+}
