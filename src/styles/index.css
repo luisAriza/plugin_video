@@ -1,7 +1,7 @@
 * {
 	box-sizing: border-box;
 	margin: 0;
-	padding: 0;
+	/* padding: 0; */
 }
 
 header {
@@ -21,7 +21,7 @@ header {
 	justify-items: center;
 	align-content: center;
 	width: 100%;
-	height: calc(100vh - 120px);
+	margin-top: 40px;
 }
 .container video {
 	width: 660px;

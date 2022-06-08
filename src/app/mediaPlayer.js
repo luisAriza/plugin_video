@@ -14,6 +14,10 @@ MediaPlayer.prototype.play = function () {
   this.media.paused ? this.media.play() : this.media.pause();
 };
 
+MediaPlayer.prototype.pause = function () {
+  this.media.paused = true;
+};
+
 MediaPlayer.prototype.mute = function () {
   this.media.muted = true;
 };
