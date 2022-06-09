@@ -1,6 +1,6 @@
 import MediaPlayer from "./app/MediaPlayer.js";
 import AutoPlay from "./app/plugins/AutoPlay.js";
-import AutoPause from "./app/plugins/AutoPause.js";
+import AutoPause from "./app/plugins/AutoPause.ts";
 
 const video = document.querySelector("video");
 const player = new MediaPlayer({
